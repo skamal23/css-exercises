@@ -1,0 +1,18 @@
+.odd {
+    background: lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;   
+}
+
+#numbertwo {
+    color: blue;
+    font-size: 36px;
+}
+
+#green {
+    background-color: greenyellow;
+    font-weight: bold;
+    
+}
+.med {
+    font-size: 24px;
+}
